@@ -18,6 +18,17 @@ h1 {
   'wght' 900,
   'GRAD' 0,
   'opsz' 80
-  
-  
+}
+
+.box {
+  border: 2px solid blue;
+  padding: 10px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 25%;
+  box-sizing: border-box;
+  float: left;
 }
